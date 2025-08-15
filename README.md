@@ -1,4 +1,4 @@
-<img width="4950" height="1238" alt="banner 2" src="https://github.com/user-attachments/assets/f85a9238-c1ae-4638-be03-dc5c27cd500f" />
+<img width="2574" height="644" alt="3" src="https://github.com/user-attachments/assets/e5301b1c-fe7a-43a6-9a8a-3e8b9486237d" />
 
 # 👋 Hey, I’m Sush (Sushanth Rajkumar)
 
